@@ -1,0 +1,3 @@
+# logica-RPG
+Base de conhecimento em Prolog, focada em classes de RPG de mesa.
+22/12: Por enquanto, nada do código foi feito. Por enquanto...
