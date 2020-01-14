@@ -1,7 +1,7 @@
 # logica-RPG
 Base de conhecimento em Prolog, focada em classes de RPG de mesa.
 
------------------------------------------------------------------
+------------------------------------------------------------------
 
 # Classes RPG
 
@@ -29,7 +29,7 @@ Paladino: Carisma, armadura pesada, d10, leal, tank.
 
 Patrulheiro: Destreza, armadura média, d10, neutro, suporte.
 
------------------------------------------------------------------
+------------------------------------------------------------------
 
 # Raças RPG
 
